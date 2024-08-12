@@ -1,0 +1,6 @@
+1. List all students with their full names and email addresses
+2. Find all courses with 3 credits.
+3. Retrieve the details of students who are enrolled in a course named Mathematics.
+4. Get the total number of students enrolled in each course
+5. Get a list of all students with their birthdates who are older than 22 years
+6. Set the phone_number of the student with student_id = 8 to 555-123-4567.
